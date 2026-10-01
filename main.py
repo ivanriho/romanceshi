@@ -233,3 +233,14 @@ friendsContact = {
 }
 
 print(friendsContact[whichFriend])
+
+print("calling now")
+if timbo:
+    time.sleep(1.5)
+print(".")
+if timbo:
+    time.sleep(1.5)
+print("..")
+if timbo:
+    time.sleep(1.5)
+print("...")
